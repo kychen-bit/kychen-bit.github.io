@@ -1,0 +1,24 @@
+# =========================
+# Butterfly 主题个人配置（最小可用）
+# =========================
+
+# 网站副标题
+subtitle:
+  enable: true
+  sub:
+    - 记录技术成长
+    - kychen-bit 的个人博客
+
+# 侧边栏配置
+aside:
+  enable: true
+
+# 作者卡片（右侧）
+profile:
+  enable: true
+  avatar: /images/1.jpg
+  name: kychen-bit
+  description: 专注技术与工程实践
+  socials:
+    Github: https://github.com/kychen-bit
+    Email: your@email.com
